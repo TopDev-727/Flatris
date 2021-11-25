@@ -6,11 +6,8 @@ integrating and experimenting with web technologies.
 In this repo you will find:
 
 - A React/Redux architecture
-- A [React Cosmos](https://github.com/react-cosmos/react-cosmos) integration with create-react-app and Redux
-- A [PWA](https://developers.google.com/web/progressive-web-apps/) with offline support
+- A React Cosmos integration with create-react-app and Redux
+- A PWA with offline support
 
 [![Offline](flatris-offline.gif)](https://skidding.github.io/flatris/)
 
-Also see [elm-flatris.](https://github.com/w0rm/elm-flatris)
-
-Thanks [@paulgergely](https://twitter.com/paulgergely) for the flat Tetris design!
